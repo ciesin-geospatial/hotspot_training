@@ -1,4 +1,4 @@
-[Google Colab Link]([https://www.google.com](https://colab.research.google.com/github/ciesin-geospatial/hotspot_training/blob/main/Hotspot_Training.ipynb))
+### [Google Colab Link](https://colab.research.google.com/github/ciesin-geospatial/hotspot_training/blob/main/Hotspot_Training.ipynb)
 # English
 ## hotspot_training.ipynb
 Hotspot Analysis Training was developed by Juan F. Martinez at the Center for International Earth Science Information Network (CIESIN) for the AmeriGEO 2023 Conference. 
